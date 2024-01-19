@@ -5,7 +5,7 @@
   "type": "module",
   "main": "bottok.js",
   "scripts": {
-    "start": "node ./bottok.js"
+    "start": "sh multi-task.sh"
   },
   "repository": "git@github.com:jfadev/bottok.git",
   "bugs": {
